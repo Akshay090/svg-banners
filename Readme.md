@@ -34,7 +34,7 @@
 </div>
 
 ## Rainbow
-[View all variants ↗️](/Variants/typewriter.md)
+[View all variants ↗️](/Variants/rainbow.md)
 
 <div align="center">
 	<img src="SVG/rainbow/rainbow.svg" width="800" height="400">
