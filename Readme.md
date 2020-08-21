@@ -8,11 +8,15 @@
 
 ## 💐 Collection 
 
+[![SVG Banners](http://localhost:3000/api?type=glitch&text1=hello&height=100&width=1000)](https://github.com/Akshay090/svg-banners)
+
+[![SVG Banners](http://localhost:3000/api?type=luminance&text1=Akshay090)](https://github.com/Akshay090/svg-banners)
+
 #### ⚫ Origin 
 [View all variants ↗️](/Variants/origin.md)
 
 <div align="center">
-	<img src="SVG/origin/origin.svg" width="800" height="400">
+	<img src="http://localhost:3000/api?type=glitch&text1=hello" width="800" height="400">
 </div>
 
 #### ⚫ Text In Box
