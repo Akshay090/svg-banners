@@ -4,7 +4,8 @@
 - #### [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat)
 - #### [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-### 🚧 Contributing : Add more SVG or create variants for existing ones.
+### 🚧 Contributing :
+### ➡ Add more SVG or create variants for existing ones read [how-to-add.md](https://github.com/Akshay090/svg-banners/blob/master/how-to-add.md)
 
 ### 🛠️ Working Locally : Use [markserv](https://github.com/markserv/markserv) to preview markdown locally in browser.
 
